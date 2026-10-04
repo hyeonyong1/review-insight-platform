@@ -1,0 +1,15 @@
+{
+  "dataset": "Meituan-Dianping ASAP",
+  "task": "negative aspect multi-label classification",
+  "split_used_for_report": "dev/validation",
+  "train_rows": 36850,
+  "dev_rows": 4940,
+  "test_rows_reserved": 4940,
+  "label_count": 18,
+  "micro_precision": 0.4693970420932878,
+  "micro_recall": 0.5526386284489686,
+  "micro_f1": 0.5076279527559056,
+  "macro_f1": 0.44556849124022296,
+  "hamming_loss": 0.045006747638326586,
+  "note": "These values are from a real local run on 2026-10-04. The official test split was intentionally kept unused for future final evaluation."
+}

@@ -1,0 +1,15 @@
+.idea/
+.vscode/
+target/
+*.iml
+.DS_Store
+__pycache__/
+*.pyc
+.venv/
+.env
+*.log
+nlp-service/data/asap/*.csv
+nlp-service/models/*.joblib
+nlp-service/models/*.json
+nlp-service/results/*.json
+nlp-service/results/*.txt
